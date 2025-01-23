@@ -1,7 +1,7 @@
 # City Dog Show Image Classification Project
 
 ## Project Overview
-The goal of this project is to improve programming skills in Python while working on an image classification problem. The project involves using a provided classifier function to analyze images submitted during a citywide dog show registration. The main objective is to identify whether submitted images depict dogs and, if so, determine their breed using various convolutional neural network (CNN) architectures. The classifier will help distinguish dogs from other animals and verify the breed of the registered dogs.
+The project involves using a provided classifier function to analyze images submitted during a citywide dog show registration. The main objective is to identify whether submitted images depict dogs and, if so, determine their breed using various convolutional neural network (CNN) architectures. The classifier will help distinguish dogs from other animals and verify the breed of the registered dogs.
 
 ## Objectives
 1. **Dog Identification**: Correctly identify images of dogs and distinguish them from images of other animals or objects.
